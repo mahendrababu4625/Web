@@ -7,7 +7,7 @@ Our servers are currently undergoing maintenance to improve performance and stab
 
 ## 🔄 **Estimated Downtime:**
 - **Start Time:** September 14, 2024, 10:00 AM UTC
-- **Expected End Time:** September 14, 2024, 2:00 PM UTC
+- **Expected End Time:** September 20, 2024, 2:00 PM UTC
 
 We are working hard to ensure the system is back up and running as soon as possible. 
 
